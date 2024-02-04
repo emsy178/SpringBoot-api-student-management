@@ -35,12 +35,12 @@ This repository contains a Spring Boot API for student management. The API provi
 2. Access the API endpoints for student management.
 - ### API Endpoints
 The following endpoints are available for student management:
-- **Get All Students:**
+-- **Get All Students:**
   - Endpoint: `/api/v1/students`
   - Method: GET
   - Description: Retrieve a list of all students.
 
-- **Get Student by ID:**
+-- **Get Student by ID:**
   - Endpoint: `/api/v1/students/{id}`
   - Method: GET
   - Description: Retrieve details of a specific student by ID.
