@@ -23,7 +23,7 @@ This repository contains a Spring Boot API for student management. The API provi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/votre-utilisateur/SpringBoot-api-student-management.git
+    git clone https://github.com/emsy178/SpringBoot-api-student-management.git
     ```
 
 2. Open the project in your IDE.
