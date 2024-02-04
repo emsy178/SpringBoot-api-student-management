@@ -33,6 +33,34 @@ This repository contains a Spring Boot API for student management. The API provi
 1. Run the application.
 
 2. Access the API endpoints for student management.
+### API Endpoints
+The following endpoints are available for student management:
+- **Get All Students:**
+  - Endpoint: `/api/students`
+  - Method: GET
+  - Description: Retrieve a list of all students.
+
+- **Get Student by ID:**
+  - Endpoint: `/api/students/{id}`
+  - Method: GET
+  - Description: Retrieve details of a specific student by ID.
+
+- **Add New Student:**
+  - Endpoint: `/api/students`
+  - Method: POST
+  - Description: Add a new student to the system.
+
+- **Update Student:**
+  - Endpoint: `/api/students/{id}`
+  - Method: PUT
+  - Description: Update details of a specific student by ID.
+
+- **Delete Student:**
+  - Endpoint: `/api/students/{id}`
+  - Method: DELETE
+  - Description: Delete a specific student by ID.
+
+Feel free to explore and interact with these endpoints to manage student records efficiently.
 
 ### License
 
